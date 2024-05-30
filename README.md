@@ -1,4 +1,4 @@
-Example code for implementing physics-informed neural networks and generating simulated data
+# Example code for implementing physics-informed neural networks and generating simulated data
 
 ## Authors
 
@@ -40,4 +40,4 @@ physics-informed neural network. It is provided as Jupyter notebooks.
 
 
 ## Updates
-Newer versions or comments regarding this source code may be available, please check [here](https://code.usgs.gov/cooperativeresearchunits/neural-networks) to view latest edits or [here](https://code.usgs.gov/cooperativeresearchunits/neural-networks/-/releases) for the latest offical release.
+Newer versions or comments regarding this source code may be available, please check [here](https://code.usgs.gov/cooperativeresearchunits/physics-informed-neural-nets) to view latest edits or [here](https://code.usgs.gov/cooperativeresearchunits/physics-informed-neural-nets/-/releases) for the latest offical release.
