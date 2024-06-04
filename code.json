@@ -2,8 +2,7 @@
   {
     "name": "Example code for implementing physics-informed neural networks and generating simulated data.",
     "organization": "U.S. Geological Survey",
-    "description": "There are 2 Jupyter notebooks that are example code for implementing a physics informed neutral network, and the code is companion to the manuscript entitled: Spatio-temporal ecological models via physics-informed neural net-
-works for studying chronic wasting disease by Reyes et al. (2024). The first notebook simulates data, and the second notebook uses this simulated data when implementing an example phyiscs informed neural network.",
+    "description": "There are 2 Jupyter notebooks that are example code for implementing a physics informed neutral network, and the code is companion to the manuscript entitled: Spatio-temporal ecological models via physics-informed neural net-works for studying chronic wasting disease by Reyes et al. (2024). The first notebook simulates data, and the second notebook uses this simulated data when implementing an example phyiscs informed neural network.",
     "version": "1.0.0",
     "status": "Production",
 
