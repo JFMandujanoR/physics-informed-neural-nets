@@ -29,8 +29,7 @@ USGS Information Product Data System (IPDS) no.: IP-166567
 
 ## Suggested Citation for Software
 
-Reyes J.F.M., Walsh, D., and Zhu, J. Example code for implementing physics-informed neural networks and generating simulated data. 2024. Version 1.0.0: U.S. Geological Survey software release. Reston, Va. https://doi.org/10.5066/P13VMCUO
-
+Mandujano Reyes J.F., Walsh, D., and Zhu, J. Example code for implementing physics-informed neural networks and generating simulated data. 2024. Version 1.0.0: U.S. Geological Survey software release. Reston, Va. https://doi.org/10.5066/P13VMCUO
 
 ## Abstract
 
