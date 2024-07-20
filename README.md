@@ -1,5 +1,7 @@
 # Example code for implementing physics-informed neural networks and generating simulated data
 
+Original repo in: https://doi.org/10.5066/P13VMCUO
+
 ## Authors
 
 Juan Francisco Mandujano Reyes
