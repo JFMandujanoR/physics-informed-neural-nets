@@ -12,7 +12,7 @@ Jun Zhu
 
 ## Point of contact: 
 
-Francisco Mandujano Reyes (juanfmandujano [at] hotmail.edu)
+Francisco Mandujano Reyes (juanfmandujano [at] hotmail.com)
 
 ## Information
 
