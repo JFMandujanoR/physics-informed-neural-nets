@@ -12,7 +12,7 @@ Jun Zhu
 
 ## Point of contact: 
 
-Francisco Mandujano Reyes (mandujanorey@wisc.edu)
+Francisco Mandujano Reyes (juanfmandujano [at] hotmail.edu)
 
 ## Information
 
